@@ -30,8 +30,8 @@ import java.sql.Statement;
 public class MySQLConnection {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/CompanyDB";
-        String user = "your_username";
-        String password = "your_password";
+        String user = "amrit_paudel;
+        String password = amrit@14341;
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
